@@ -4,4 +4,4 @@
 
 O intuito do projeto foi praticar conceitos na integração do HTML, CSS e Javascript.
 
-![enter image description here](https://imgur.com/YIpTAbO)
+![enter image description here](https://imgur.com/YIpTAbO.png)
